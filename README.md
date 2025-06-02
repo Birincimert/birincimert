@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mert and I'm a Software Engineer student from Turkey</h2>
+<h2 align="center">Hi👋! My name is Mert and I'm a Software Engineer student from Turkey</h2>
 
 ###
 
