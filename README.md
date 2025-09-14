@@ -1,7 +1,8 @@
+![Header](./github-header-banner.png)
 
-<h2 align="center">Hi👋! My name is Mert and I'm a Software Engineer student at Sakarya University in Turkey</h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=22&duration=4000&pause=500&color=0294FF&center=true&vCenter=true&width=460&lines=%F0%9F%92%BB+.NET+%2F+C%23+%2F+MVC+%2F+Blazor;%F0%9F%8C%90+Web+Developing+(HTML%2CCSS%2C+JS);%F0%9F%9A%80+Full-Stack+Adventurer;%E2%9A%A1+Blazing+Blazor+Builder)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=22&duration=4000&pause=500&color=0294FF&center=true&width=460&lines=%F0%9F%92%BB+.NET+%2F+C%23+%2F+MVC+%2F+Blazor;%F0%9F%8C%90+Web+Developing+(HTML%2CCSS%2C+JS);%F0%9F%9A%80+Full-Stack+Adventurer;%E2%9A%A1+Blazing+Blazor+Builder" alt="Typing SVG" /></a>
+</p>
 
 ###
 
