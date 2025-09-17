@@ -7,9 +7,9 @@
 ###
 
 <div align="center">
-![Birincimert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Birincimert&theme=react&show_icons=true&hide_border=false&layout=compact)
-![Birincimert's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Birincimert&theme=react&hide_border=false)
-![Birincimert's Stats](https://github-readme-stats.vercel.app/api?username=Birincimert&theme=react&show_icons=true&hide_border=false&count_private=true)
+   <img src="![Birincimert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Birincimert&theme=react&show_icons=true&hide_border=false&layout=compact)" height="150" alt="streak graph"  />
+   <img src="![Birincimert's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Birincimert&theme=react&hide_border=false)" height="150" alt="streak graph"  />
+   <img src="![Birincimert's Stats](https://github-readme-stats.vercel.app/api?username=Birincimert&theme=react&show_icons=true&hide_border=false&count_private=true)" height="150" alt="streak graph"  />
 </div>
 
 
